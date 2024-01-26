@@ -1,9 +1,20 @@
-- Olá, sou Rafael Duarte Daltio, mais conhecido como Rafael ou apenas Daltio.
-- Estudo Engenharia da Computação na UTFPR e busco trabalhar na área de Desenvolvedor.
-- Atualmente conheço as linguagens C, C#, Java, JavaScript e Python. Também possuo conhecimento de banco de dados em MySQL e PostgreSQL.
-- Possuo inglês avançado com certificado de Cambridge com proficiência C2.
-- Para me contatar segue meu email institucional: rdaltio@alunos.utfpr.edu.br
-- Atualmente, estou focado em aprender mais sobre desenvolvimento web e machine learning.
+# Rafael Duarte Daltio
+Olá, meu nome é Rafael e seja bem vindo ao meu perfil, abaixo poderá me conhecer melhor.
+
+## Sobre Mim
+🎓 Estudante de Engenharia da Computação na UTFPR.
+
+💻 Buscando oportunidades na área de Desenvolvedor.
+
+🌐 Conhecimento em C, C#, Java, JavaScript e Python.
+
+📚 Familiarizado com HTML e CSS.
+
+🗄️ Experiência em bancos de dados relacional (MySQL e PostgreSQL) e não relacional (MongoDB).
+
+🚀 Principais tecnologias: Node.js, Express, Bcrypt, JsonWebToken.
+
+🌐 Inglês avançado, certificado de Cambridge com proficiência C2.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-duarte-daltio-bb98a922b/)
