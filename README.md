@@ -35,11 +35,13 @@ Atualmente, estou concentrado em aprimorar minhas habilidades nas seguintes áre
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Node.Js](https://img.shields.io/badge/Node.Js-000?style=for-the-badge&logo=node.js)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 
