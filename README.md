@@ -16,6 +16,18 @@ Olá, meu nome é Rafael e seja bem vindo ao meu perfil, abaixo poderá me conhe
 
 🌐 Inglês avançado, certificado de Cambridge com proficiência C2.
 
+## Projetos
+🌐 uTask 3.0: Meu primeiro projeto em front para fazer uma to do list responsiva.
+
+🚀 Capacitação Back da Unect: Uma API RESTful desenvolvida em Node.js, Express e MongoDB, oferecendo recursos para registro, autenticação de usuários e manipulação de dados de Pokémon.
+
+## Habilidades em Foco
+Atualmente, estou concentrado em aprimorar minhas habilidades nas seguintes áreas:
+
+💻 Desenvolvimento Web
+
+🤖 Machine Learning
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-duarte-daltio-bb98a922b/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rdaltio@alunos.utfpr.edu.br)
