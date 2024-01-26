@@ -19,7 +19,7 @@ Olá, meu nome é Rafael e seja bem vindo ao meu perfil, abaixo poderá me conhe
 ## Projetos
 🌐 uTask 3.0: Meu primeiro projeto em front para fazer uma to do list responsiva.
 
-🚀 Capacitação Back da Unect: Uma API RESTful desenvolvida em Node.js, Express e MongoDB, oferecendo recursos para registro, autenticação de usuários e manipulação de dados de Pokémon.
+🚀 Capacitação Back da Unect: Uma API RESTful desenvolvida em Node.js, Express, MongoDB, Bcrypt e JsonWebToken, oferecendo recursos para registro, autenticação de usuários e manipulação de dados de Pokémon.
 
 ## Habilidades em Foco
 Atualmente, estou concentrado em aprimorar minhas habilidades nas seguintes áreas:
