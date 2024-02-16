@@ -4,6 +4,8 @@ Olá, meu nome é Rafael e seja bem vindo ao meu perfil, abaixo poderá me conhe
 ## Sobre Mim
 🎓 Estudante de Engenharia da Computação na UTFPR.
 
+🌍 Atualmente, estou fazendo intercâmbio em Portugal, no Instituto Politécnico de Bragança (IPB), sendo mestrado na área de Informática.
+
 💻 Buscando oportunidades na área de Desenvolvedor.
 
 🌐 Conhecimento em C, C#, Java, JavaScript e Python.
