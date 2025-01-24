@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full-Stack Developer passionate about creating scalable, user-friendly applications.<br>  - Experienced in developing robust back-end solutions using Spring Boot, FastAPI and Node.js.<br>  - Skilled in building modern front-end interfaces with React.js and Next.js.<br>  - Proficient in relational databases (PostgreSQL, MySQL) and NoSQL (MongoDB), applying clean code practices and principles like SOLID.</p>
+<p align="left">- Full-Stack Developer passionate about creating scalable, user-friendly applications.<br>  - Experienced in developing robust back-end solutions using Spring Boot, FastAPI and Node.js.<br>  - Skilled in building modern front-end interfaces with React.js and Next.js.<br>  - Proficient in relational databases (PostgreSQL, MySQL) and NoSQL (MongoDB), applying clean code practices and principles like SOLID.<br> - Gained international experience through an academic exchange program at the Polytechnic Institute of Bragança (Portugal), enhancing my technical and collaborative skills.<br></p> 
 
 ###
 
